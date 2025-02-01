@@ -7,6 +7,7 @@ import imageOne from '../../images/Social Media website.png'
 import imageTwo from '../../images/Food Delivery website.png'
 import imageThree from '../../images/my portfolio.png'
 import imageFour from '../../images/CRUDSC.png'
+import imageFive from '../../images/Todolist.png'
 import './styles.scss'
 
 const portfolioData = [
@@ -20,20 +21,27 @@ const portfolioData = [
     id: 2,
     name: "Food Delivery",
     image: imageTwo,
-    link:"https://github.com/Rakeshkola-githublink/Food-Delivery-website"
+    link:"https://foodorderdelivery-website.netlify.app/#explore-menu"
   },
   {
     id: 2,
     name: " Portfolio",
     image: imageThree,
-    link:"https://github.com/Rakeshkola-githublink/My-Portfolio"
+    link:"https://myportfolio-react-8tqd.onrender.com/"
   },
   {
     id: 3,
     name: " CRUD USING Redux ThunK",
     image: imageFour,
-    link:"https://crud-using-redux-in-react-js.onrender.com"
+    link:"https://crud-reduxthunk-react-website.onrender.com"
+  },
+  {
+    id: 4,
+    name: " To-do List",
+    image: imageFive,
+    link:"https://todo-list-react-ob4u.onrender.com"
   }
+
 
  
   
